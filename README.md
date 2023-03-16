@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Ted</h1>
-<h3 align="center">A passionate Software developer.</h3>
+<h3 align="center">A Mobile Developer.</h3>
 <p align="center"><img src="https://media4.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47e637fkm031riyzbs2zaqtnjws2ym5qdleeo3spgx&rid=giphy.gif&ct=g" width="250" height="250"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tedisaac&label=Profile%20views&color=0e75b6&style=flat" alt="tedisaac" /> </p>
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences and projects [https://tedisaac.github.io](https://tedisaac.github.io)
 
-- ⚡ Fun fact **I'm fun**
+- ⚡ Fun fact **Nothing is sweeter than a bug 👀️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
