@@ -35,4 +35,4 @@
 
 <h3 align="left">Recently played:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vtp9rnf15oz7sztuzgdkhgwoi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vtp9rnf15oz7sztuzgdkhgwoi&cover_image=true&theme=dark&show_offline=true&background_color=121212&interchange=false)
