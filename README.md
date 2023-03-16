@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/isaacted3" target="blank"><img src="https://img.shields.io/twitter/follow/isaacted3?logo=twitter&style=for-the-badge" alt="isaacted3" /></a> </p>
 
-- 🔭 I’m currently working on **SN app**
+- 🔭 I’m currently working on **Little app**
 
 - 🌱 I’m currently learning **KMM, Flutter**
 
