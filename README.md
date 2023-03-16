@@ -33,4 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tedisaac&" alt="tedisaac" /></p>
 
+<h3 align="left">Recently played:</h3>
+
 [![Spotify](https://spotigit.vercel.app/api/spotify)](https://open.spotify.com/user/spotigit)
