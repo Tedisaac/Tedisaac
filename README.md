@@ -35,4 +35,4 @@
 
 <h3 align="left">Recently played:</h3>
 
-[![Spotify](https://spotigit.vercel.app/api/spotify)](https://open.spotify.com/user/spotigit)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=vtp9rnf15oz7sztuzgdkhgwoi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vtp9rnf15oz7sztuzgdkhgwoi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)]]
