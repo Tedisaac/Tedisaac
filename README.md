@@ -62,4 +62,4 @@ I build production mobile apps: ride-hailing used by thousands of people daily, 
 
 ## 📫 Find me
 
-**[tedisaac.github.io](https://tedisaac.github.io)** is the full picture: case studies, screenshots and how I work. Or just say hi: **ndeited@gmail.com**.
+**[isaacted.dev/](https://isaacted.dev/)** is the full picture: case studies, screenshots, and how I work. Or just say hi: **ndeited@gmail.com**.
