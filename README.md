@@ -17,9 +17,9 @@ I build production mobile apps: ride-hailing used by thousands of people daily, 
 
 | App | What it is | Where it lives |
 |---|---|---|
-| **Chekit** | Commerce marketplace with M-Pesa escrow: customer, merchant and rider apps (co-founder) | [Google Play](TODO-chekit-play-link) · [App Store](TODO-chekit-appstore-link) |
-| **RoadRims Driver** | Driver logistics: orders, live tracking, in-app loans. One Flutter codebase | [Google Play](TODO-roadrims-play-link) · [App Store](TODO-roadrims-appstore-link) |
-| **Tourist Tap** | Visitors pay Kenyan merchants by tapping a card on a phone (NFC, EMV) | [Google Play](https://play.google.com/store/search?q=tourist%20tap&c=apps) |
+| **Chekit** | Commerce marketplace with M-Pesa escrow: customer, merchant and rider apps (co-founder) | [Google Play](https://play.google.com/store/apps/details?id=shop.chekit.customer&hl=en) · [App Store](https://apps.apple.com/us/app/chekit/id6808528671) |
+| **RoadRims Driver** | Driver logistics: orders, live tracking, in-app loans. One Flutter codebase | [Google Play](https://play.google.com/store/apps/details?id=com.roadrimz.driver) 
+| **Tourist Tap** | Visitors pay Kenyan merchants by tapping a card on a phone (NFC, EMV) | [Google Play](https://play.google.com/store/apps/details?id=com.little.littlepay) |
 | **Little Cab** | Feature and performance work on a national ride-hailing platform | [Google Play](https://play.google.com/store/apps/details?id=com.craftsilicon.littlecabrider) |
 | **Little PDQ** | Point-of-sale on Android payment terminals, built to EMV Level 2 and PCI DSS | POS hardware, Kenya |
 | **E-Voucher** | Offline-first fertilizer subsidy distribution via NFC tags | Government deployment, Ethiopia |
@@ -62,4 +62,4 @@ I build production mobile apps: ride-hailing used by thousands of people daily, 
 
 ## 📫 Find me
 
-**[isaacted.dev/](https://isaacted.dev/)** is the full picture: case studies, screenshots, and how I work. Or just say hi: **ndeited@gmail.com**.
+**[tedisaac.github.io](https://tedisaac.github.io)** is the full picture: case studies, screenshots and how I work. Or just say hi: **ndeited@gmail.com**.
