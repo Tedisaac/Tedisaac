@@ -18,7 +18,7 @@ I build production mobile apps: ride-hailing used by thousands of people daily, 
 | App | What it is | Where it lives |
 |---|---|---|
 | **Chekit** | Commerce marketplace with M-Pesa escrow: customer, merchant and rider apps (co-founder) | [Google Play](https://play.google.com/store/apps/details?id=shop.chekit.customer&hl=en) · [App Store](https://apps.apple.com/us/app/chekit/id6808528671) |
-| **RoadRims Driver** | Driver logistics: orders, live tracking, in-app loans. One Flutter codebase | [Google Play](https://play.google.com/store/apps/details?id=com.roadrimz.driver) 
+| **RoadRims Driver** | Driver logistics: orders, live tracking, in-app loans. One Flutter codebase | [Google Play](https://play.google.com/store/apps/details?id=com.roadrimz.road_rimz&hl=en) 
 | **Tourist Tap** | Visitors pay Kenyan merchants by tapping a card on a phone (NFC, EMV) | [Google Play](https://play.google.com/store/apps/details?id=com.little.littlepay) |
 | **Little Cab** | Feature and performance work on a national ride-hailing platform | [Google Play](https://play.google.com/store/apps/details?id=com.craftsilicon.littlecabrider) |
 | **Little PDQ** | Point-of-sale on Android payment terminals, built to EMV Level 2 and PCI DSS | POS hardware, Kenya |
